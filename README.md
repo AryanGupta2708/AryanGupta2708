@@ -1,4 +1,4 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://curious-cactus-17796e.netlify.app/)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://curious-cactus-17796e.netlify.app/)
 <h1 align="center">Hi 👋, I'm Aryan Gupta</h1>
 <h3 align="center">A passionate Software Developer/Machine Learning Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
